@@ -42,7 +42,7 @@ make dev_docker
 ```
 
 ## Testing Rollup & Coordinator
-
+test
 Run the tests using the following commands:
 
 ```bash
